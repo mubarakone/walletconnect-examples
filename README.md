@@ -3,3 +3,5 @@
 #### *change react scripts version to* `"react-scripts": "4.0.3",` *in* `package.json`*, instead of v5.0. Webpack 5 is not yet compatible with WalletConnect's client.*
 
 # `react-native-dapp`
+
+# `react-native-client`
