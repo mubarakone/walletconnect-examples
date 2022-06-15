@@ -7,3 +7,5 @@
 # `react-native-dapp`
 
 # `react-native-client`
+
+# `mobile-linking`
