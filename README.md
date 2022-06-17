@@ -9,3 +9,5 @@
 # `react-native-client`
 
 # `mobile-linking`
+
+# `smart-contract-wallets`
